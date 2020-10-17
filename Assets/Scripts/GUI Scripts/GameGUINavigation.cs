@@ -215,7 +215,7 @@ public class GameGUINavigation : MonoBehaviour {
     public void LoadLevel()
     {
         GameManager.Level++;
-        Application.LoadLevel("game");
+        Application.LoadLevel("Solution");
     }
 
     public void ToggleErrorMsg(string errorMsg)
