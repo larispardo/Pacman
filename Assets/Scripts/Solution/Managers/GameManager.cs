@@ -162,7 +162,6 @@ public class GameManager : MonoBehaviour {
         inky = GameObject.Find("inky");
         blinky = GameObject.Find("blinky");
         pacman = GameObject.Find("pacman");
-        var gos = FindObjectsOfType<PlayerController>();
 
         if (clyde == null || pinky == null || inky == null || blinky == null) Debug.Log("One of ghosts are NULL");
         if (pacman == null) Debug.Log("Pacman is NULL");

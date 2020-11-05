@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{40DB70B5-49D0-D3BE-18D8-F28CBB156472}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Solution/Managers/GameManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Solution/GUI Scripts/GameGUINavigation.cs">
     <Files>
       <File FileName="Assets/Scripts/Solution/GUI Scripts/Move.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/PacmanMove.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Solution/PlayerController.cs" Line="5" Column="14" />
+      <File FileName="Assets/Scripts/Solution/PlayerController.cs" Line="5" Column="30" />
       <File FileName="Assets/Scripts/GhostMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIManager.cs" />
-      <File FileName="Assets/Scripts/Fantasmas/AI.cs" Line="41" Column="1" />
+      <File FileName="Assets/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Fantasmas/AI.cs" Line="176" Column="1" />
       <File FileName="Assets/Scripts/Solution/GUI Scripts/MenuNavigation.cs" Line="19" Column="3" />
-      <File FileName="Assets/Scripts/PacFood.cs" Line="22" Column="2" />
+      <File FileName="Assets/Scripts/PacFood.cs" Line="18" Column="69" />
       <File FileName="Assets/Scripts/MovePacman.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Solution/Managers/GameManager.cs" Line="86" Column="38" />
-      <File FileName="Assets/Scripts/Solution/Energizer.cs" Line="21" Column="23" />
+      <File FileName="Assets/Scripts/Solution/Managers/GameManager.cs" Line="164" Column="44" />
+      <File FileName="Assets/Scripts/Solution/Energizer.cs" Line="16" Column="6" />
       <File FileName="Assets/Scripts/Solution/Managers/ScoreManager.cs" Line="125" Column="29" />
+      <File FileName="Assets/Scripts/Solution/GUI Scripts/GameGUINavigation.cs" Line="218" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -20,7 +21,9 @@
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f6f49bd-128f-4c59-bad4-dbec147a8450" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/larispardo/Documents/Jobs/UPY/Pacman/Assets/Scripts/Solution/Managers/GameManager.cs" relfile="Assets/Scripts/Solution/Managers/GameManager.cs" line="86" column="1" />
+      <Breakpoint file="/Users/larispardo/Documents/Jobs/UPY/Pacman/Assets/Scripts/Solution/Managers/GameManager.cs" relfile="Assets/Scripts/Solution/Managers/GameManager.cs" line="90" column="1" />
+      <Breakpoint file="/Users/larispardo/Documents/Jobs/UPY/Pacman/Assets/Scripts/Solution/Managers/GameManager.cs" relfile="Assets/Scripts/Solution/Managers/GameManager.cs" line="87" column="1" />
+      <Breakpoint file="/Users/larispardo/Documents/Jobs/UPY/Pacman/Assets/Scripts/Solution/Managers/GameManager.cs" relfile="Assets/Scripts/Solution/Managers/GameManager.cs" line="166" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
